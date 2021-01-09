@@ -19,11 +19,12 @@ Rick Ord or someone:
 code: file not recognized: File truncated  
 collect2: ld returned 1 exit status
 '''
+
 [Don't click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - [x] Covid-19
-- [] Covid-20
-- [] Covid-21
+- [ ] Covid-20
+- [ ] Covid-21
 
 ## Welcome to GitHub Pages
 
